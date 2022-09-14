@@ -5,7 +5,7 @@
 Clone the repository:
 
 ```
-git clone https://github.com/Sagar-IIT/CS307_Project
+git clone https://github.com/Sagar-IIT/Group-Coding-Platform
 ```
 
 and install the dependencies
