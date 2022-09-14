@@ -31,4 +31,4 @@ The project is preconfigured with a simple development web server.
 The simplest way to start this server is:
 `npm start`
 
-- Open [http://localhost:3000](http://localhost:9909/) and take a look around.
+- Open [http://localhost:9909](http://localhost:9909/) and take a look around.
